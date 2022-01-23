@@ -1,0 +1,52 @@
+body{
+    background-color:#AEFEFF;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather',serif;s
+}
+.middle-name
+{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    
+    margin-top: 0;
+    font-family: 'Sacramento',cursive;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.top-container
+{
+    background-color: #E4F9F5;
+    position: relative;
+    top:0px;
+    
+}
+
+.image_1{
+    position: relative;
+    left:280px;
+    bottom:px;
+    
+}
+.image_2
+{
+    position: relative;
+    left:60px;
+    bottom:300px;
+}
+.image_3
+{
+    position: relative;
+    right: 40px;
+.pro
+{
+    text-decoration: underline;
+}
+
