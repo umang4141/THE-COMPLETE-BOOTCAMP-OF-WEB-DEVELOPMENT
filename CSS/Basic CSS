@@ -1,0 +1,33 @@
+ body {
+    background-color:#33DCFF;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    font-size:15px;
+  }  
+h1,h3{
+
+   color:#040505;
+}
+img
+{
+  background-color: red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+   
+}
+.para
+{
+   font-size: large;
+   background-color: hsl(135, 89%, 45%);
+   margin-top: 60px;
+   margin-bottom: 40px;
+   width: 100px;
+   height: 100px;
+   padding-top:20px;
+   padding-bottom:20px;
+   padding-left:20px;
+   padding-right:20px;
+}
