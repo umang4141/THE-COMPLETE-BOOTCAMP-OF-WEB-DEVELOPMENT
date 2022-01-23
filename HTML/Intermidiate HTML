@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Umang Pratap Singh </title>
+        <link rel="stylesheet" href="cssdisplay.css">
+        <link rel="icon" href="favicon.ico">
+    </head>
+<body>
+        <div class="top-container">
+           <img class="image_1" src="C:\Users\umang\Downloads\Project First\Intermidiatecss\cloud.png" alt="cloud-img">
+           <h1>I'm Umang.</h1>
+           <p>a <span class="pro">pro</span>grammer.</p>
+           <img class="image_2" src="C:\Users\umang\Downloads\Project First\Intermidiatecss\cloud.png" alt="cloud-img">
+           <img class="image_3" src="C:\Users\umang\Downloads\Project First\Intermidiatecss\mountain.png" alt="mountain-img">
+           </div>
+           <div class="middle-container">
+            <div class="profile">
+                <img src="C:\Users\umang\Downloads\Project First\Intermidiatecss\Umang Image.png" height="150px" width="150px" alt="My Image">
+                <h2>Hello.</h2>
+                <p>This is something related to my skills.</p>
+              </div>
+              <hr>
+              <div class="skills">
+                <h2>My Skills.</h2>
+                <div class="skill-row">
+                  <img class="" src="C:\Users\umang\Downloads\Project First\Intermidiatecss\computer.png" height="150px" width="150px alt="Personal Skill_1">
+                  <h3>Web Development</h3>
+                  <p>Web development refers to the building, creating, and maintaining of websites.</p>
+                   <p>It includes aspects such as web design, web publishing, web programming></p>
+                   <a href="https://www.geeksforgeeks.org/web-development/">About Web Development</a>
+                
+                </div>
+                <div class="skill-row">
+                  <img class="" src="C:\Users\umang\Downloads\Project First\Intermidiatecss\machine-learning (1).png" alt="Personal Skill_@">
+                  <h3>Machine Learning</h3>
+                  <p>Machine learning is a branch of artificial intelligence (AI) and computer </p>
+                  <p>science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.</p>
+                  <a href="https://www.ibm.com/in-en/cloud/learn/machine-learning">About Machine Learning</a>
+                </div>
+              </div>
+              <hr>
+              <div class="contact-me">
+                <h2>Get In Touch</h2>
+                <h3>Lorem ipsum dolor sit amet, non elit.</h3>
+                <p>Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>
+                <a class="btn" href="umangpratapsingh4141@gmail.com">CONTACT ME</a>
+              </div>
+            </div>
+          
+          <div class="bottom-container">
+            <a class="footer-link" href="https://www.linkedin.com/feed/?trk=IN-SEM_google-adwords_Jordan-brand-sign-up">LinkedIn</a>
+            <a class="footer-link" href="https://www.hackerrank.com/umangpratapsing1?hr_r=1">Hackerrank</a>
+            <a class="footer-link" href="https://github.com/umang4141">Github</a>
+            <p>© Name Surname.</p>
+          </div>
+          
+    
+
+
+    </body>
+</html>
